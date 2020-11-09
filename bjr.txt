@@ -18,4 +18,8 @@ aqe(
     
 )
 
+<<<<<<< HEAD
 c'est le bordel ce fichier là
+=======
+oui je confirme c'est bien le bordel ce truc là
+>>>>>>> 6a98f0028bb2bcf384279b92a2d33e2c38145bb9
