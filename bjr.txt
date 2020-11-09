@@ -17,3 +17,5 @@ aqe(
     gny
     
 )
+
+c'est le bordel ce fichier là
